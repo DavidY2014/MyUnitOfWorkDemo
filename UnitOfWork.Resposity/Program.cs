@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 
 namespace UnitOfWork.Resposity
 {
@@ -6,14 +7,14 @@ namespace UnitOfWork.Resposity
     {
         static void Main(string[] args)
         {
-            var dbContext = new UnitOfWorkLibary.MyDbContext();
+            DbContext dbContext = new UnitOfWorkLibary.CSSDBModels.CSSDBContext();
             var unitofWork1 = new UnitOfWorkLibary.UnitOfWork1(dbContext);
             //unitofWork1.StudentRepository.Add(new UnitOfWorkLibary.Entites.Student() { Id=DateTime.Now.Second,Name="Jack"});
             //unitofWork1.Commit();
-            var efStudents = unitofWork1.StudentRepository.GetAll();
-            foreach (var item in efStudents)
+            var efWorkOrders = unitofWork1.TworkOrderUserRepository.GetAll();
+            foreach (var item in efWorkOrders)
             {
-                Console.WriteLine(item.Name);
+                Console.WriteLine(item.WorkOrderId);
             }
         }
     }

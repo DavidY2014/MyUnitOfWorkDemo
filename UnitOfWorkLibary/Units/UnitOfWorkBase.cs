@@ -7,8 +7,8 @@ namespace UnitOfWorkLibary.Units
 {
     public class UnitOfWorkBase : IUnitOfWork
     {
-        private readonly MyDbContext _dbContext;
-        public UnitOfWorkBase(MyDbContext dbContext)
+        private readonly DbContext _dbContext;
+        public UnitOfWorkBase(DbContext dbContext)
         {
             _dbContext = dbContext;
         }

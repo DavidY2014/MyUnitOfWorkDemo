@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using UnitOfWorkLibary.Models;
+//using UnitOfWorkLibary.Models;
 
 namespace UnitOfWorkLibary
 {
@@ -12,7 +12,7 @@ namespace UnitOfWorkLibary
     /// </summary>
     public class MyDbContext : DbContext
     {
-        public virtual DbSet<Student> Students { get; set; }
+        //public virtual DbSet<Student> Students { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
