@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using UnitOfWorkLibary.Entites;
+using UnitOfWorkLibary.Models;
 using UnitOfWorkLibary.Resposities;
 
 namespace UnitOfWorkLibary.Units

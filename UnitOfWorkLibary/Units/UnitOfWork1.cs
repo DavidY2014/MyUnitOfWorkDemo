@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using UnitOfWorkLibary.Entites;
+using UnitOfWorkLibary.Models;
 using UnitOfWorkLibary.Resposities;
 using UnitOfWorkLibary.Units;
 
@@ -12,9 +12,6 @@ namespace UnitOfWorkLibary
     {
         private readonly MyDbContext _dbContext;
         public IRepository<Student> StudentRepository => new BaseRepository<Student>(_dbContext);
-
-        public IRepository<WorkOrderUser> WorkOrderUserRepository => new BaseRepository<WorkOrderUser>(_dbContext);
-
 
         public UnitOfWork1(MyDbContext dbContext):base(dbContext)
         {
