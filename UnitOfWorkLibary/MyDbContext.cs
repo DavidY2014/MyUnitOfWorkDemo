@@ -12,9 +12,9 @@ namespace UnitOfWorkLibary
 
         public virtual DbSet<Techer> Techers { get; set; }
 
-        public MyDbContext(string connectionString)
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-
+            optionsBuilder.UseSqlServer("server=10.10.4.201;User ID=sa;Password=colipu;database=transacionDB;Min Pool Size=10;Max Pool Size=500;");
         }
     }
 }

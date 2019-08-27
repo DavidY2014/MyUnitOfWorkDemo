@@ -6,7 +6,15 @@ namespace UnitOfWork.Resposity
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var dbContext = new UnitOfWorkLibary.MyDbContext();
+            var unitofWork1 = new UnitOfWorkLibary.UnitOfWork1(dbContext);
+            //unitofWork1.StudentRepository.Add(new UnitOfWorkLibary.Entites.Student() { Id=DateTime.Now.Second,Name="Jack"});
+            //unitofWork1.Commit();
+            var efStudents = unitofWork1.StudentRepository.GetAll();
+            foreach (var item in efStudents)
+            {
+                Console.WriteLine(item.Name);
+            }
         }
     }
 }
