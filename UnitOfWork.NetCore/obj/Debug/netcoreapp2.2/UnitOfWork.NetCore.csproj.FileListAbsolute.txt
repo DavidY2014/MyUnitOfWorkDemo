@@ -1,0 +1,17 @@
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.NetCore\bin\Debug\netcoreapp2.2\UnitOfWork.NetCore.deps.json
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.NetCore\bin\Debug\netcoreapp2.2\UnitOfWork.NetCore.runtimeconfig.json
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.NetCore\bin\Debug\netcoreapp2.2\UnitOfWork.NetCore.runtimeconfig.dev.json
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.NetCore\bin\Debug\netcoreapp2.2\UnitOfWork.NetCore.dll
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.NetCore\bin\Debug\netcoreapp2.2\UnitOfWork.NetCore.pdb
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.NetCore\bin\Debug\netcoreapp2.2\UnitOfWorkLibary.dll
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.NetCore\bin\Debug\netcoreapp2.2\UnitOfWorkLibary.pdb
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.NetCore\obj\Debug\netcoreapp2.2\UnitOfWork.NetCore.csprojAssemblyReference.cache
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.NetCore\obj\Debug\netcoreapp2.2\UnitOfWork.NetCore.csproj.CoreCompileInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.NetCore\obj\Debug\netcoreapp2.2\UnitOfWork.NetCore.RazorAssemblyInfo.cache
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.NetCore\obj\Debug\netcoreapp2.2\UnitOfWork.NetCore.RazorAssemblyInfo.cs
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.NetCore\obj\Debug\netcoreapp2.2\UnitOfWork.NetCore.AssemblyInfoInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.NetCore\obj\Debug\netcoreapp2.2\UnitOfWork.NetCore.AssemblyInfo.cs
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.NetCore\obj\Debug\netcoreapp2.2\UnitOfWork.NetCore.RazorTargetAssemblyInfo.cache
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.NetCore\obj\Debug\netcoreapp2.2\UnitOfWork.NetCore.csproj.CopyComplete
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.NetCore\obj\Debug\netcoreapp2.2\UnitOfWork.NetCore.dll
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.NetCore\obj\Debug\netcoreapp2.2\UnitOfWork.NetCore.pdb

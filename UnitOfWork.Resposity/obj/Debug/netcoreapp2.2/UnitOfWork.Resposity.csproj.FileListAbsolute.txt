@@ -1,0 +1,14 @@
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\bin\Debug\netcoreapp2.2\UnitOfWork.Resposity.deps.json
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\bin\Debug\netcoreapp2.2\UnitOfWork.Resposity.runtimeconfig.json
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\bin\Debug\netcoreapp2.2\UnitOfWork.Resposity.runtimeconfig.dev.json
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\bin\Debug\netcoreapp2.2\UnitOfWork.Resposity.dll
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\bin\Debug\netcoreapp2.2\UnitOfWork.Resposity.pdb
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\bin\Debug\netcoreapp2.2\UnitOfWorkLibary.dll
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\bin\Debug\netcoreapp2.2\UnitOfWorkLibary.pdb
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\obj\Debug\netcoreapp2.2\UnitOfWork.Resposity.csprojAssemblyReference.cache
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\obj\Debug\netcoreapp2.2\UnitOfWork.Resposity.csproj.CoreCompileInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\obj\Debug\netcoreapp2.2\UnitOfWork.Resposity.AssemblyInfoInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\obj\Debug\netcoreapp2.2\UnitOfWork.Resposity.AssemblyInfo.cs
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\obj\Debug\netcoreapp2.2\UnitOfWork.Resposity.csproj.CopyComplete
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\obj\Debug\netcoreapp2.2\UnitOfWork.Resposity.dll
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\obj\Debug\netcoreapp2.2\UnitOfWork.Resposity.pdb

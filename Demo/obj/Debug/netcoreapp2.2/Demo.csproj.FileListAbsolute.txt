@@ -1,0 +1,14 @@
+E:\unitofwork\UnitOfWork.Resposity\Demo\bin\Debug\netcoreapp2.2\Demo.deps.json
+E:\unitofwork\UnitOfWork.Resposity\Demo\bin\Debug\netcoreapp2.2\Demo.runtimeconfig.json
+E:\unitofwork\UnitOfWork.Resposity\Demo\bin\Debug\netcoreapp2.2\Demo.runtimeconfig.dev.json
+E:\unitofwork\UnitOfWork.Resposity\Demo\bin\Debug\netcoreapp2.2\Demo.dll
+E:\unitofwork\UnitOfWork.Resposity\Demo\bin\Debug\netcoreapp2.2\Demo.pdb
+E:\unitofwork\UnitOfWork.Resposity\Demo\bin\Debug\netcoreapp2.2\UnitOfWorkLibary.dll
+E:\unitofwork\UnitOfWork.Resposity\Demo\bin\Debug\netcoreapp2.2\UnitOfWorkLibary.pdb
+E:\unitofwork\UnitOfWork.Resposity\Demo\obj\Debug\netcoreapp2.2\Demo.csproj.CoreCompileInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfoInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfo.cs
+E:\unitofwork\UnitOfWork.Resposity\Demo\obj\Debug\netcoreapp2.2\Demo.csproj.CopyComplete
+E:\unitofwork\UnitOfWork.Resposity\Demo\obj\Debug\netcoreapp2.2\Demo.dll
+E:\unitofwork\UnitOfWork.Resposity\Demo\obj\Debug\netcoreapp2.2\Demo.pdb
+E:\unitofwork\UnitOfWork.Resposity\Demo\obj\Debug\netcoreapp2.2\Demo.csprojAssemblyReference.cache
