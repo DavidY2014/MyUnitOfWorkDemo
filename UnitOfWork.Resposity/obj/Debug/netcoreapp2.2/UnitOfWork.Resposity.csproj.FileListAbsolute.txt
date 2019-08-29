@@ -12,3 +12,5 @@ E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\obj\Debug\netcoreapp2.2\
 E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\obj\Debug\netcoreapp2.2\UnitOfWork.Resposity.csproj.CopyComplete
 E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\obj\Debug\netcoreapp2.2\UnitOfWork.Resposity.dll
 E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\obj\Debug\netcoreapp2.2\UnitOfWork.Resposity.pdb
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\bin\Debug\netcoreapp2.2\CodeFirstLibrary.DataAccess.dll
+E:\unitofwork\UnitOfWork.Resposity\UnitOfWork.Resposity\bin\Debug\netcoreapp2.2\CodeFirstLibrary.DataAccess.pdb

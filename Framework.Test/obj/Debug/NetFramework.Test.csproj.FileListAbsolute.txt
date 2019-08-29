@@ -1,0 +1,15 @@
+E:\unitofwork\UnitOfWork.Resposity\Framework.Test\bin\Debug\Framework.Test.exe.config
+E:\unitofwork\UnitOfWork.Resposity\Framework.Test\bin\Debug\Framework.Test.exe
+E:\unitofwork\UnitOfWork.Resposity\Framework.Test\bin\Debug\Framework.Test.pdb
+E:\unitofwork\UnitOfWork.Resposity\Framework.Test\bin\Debug\EntityFramework.dll
+E:\unitofwork\UnitOfWork.Resposity\Framework.Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\unitofwork\UnitOfWork.Resposity\Framework.Test\bin\Debug\NetFramework.DataAccess.dll
+E:\unitofwork\UnitOfWork.Resposity\Framework.Test\bin\Debug\NetFramework.DataAccess.pdb
+E:\unitofwork\UnitOfWork.Resposity\Framework.Test\bin\Debug\NetFramework.DataAccess.dll.config
+E:\unitofwork\UnitOfWork.Resposity\Framework.Test\bin\Debug\EntityFramework.xml
+E:\unitofwork\UnitOfWork.Resposity\Framework.Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\unitofwork\UnitOfWork.Resposity\Framework.Test\obj\Debug\NetFramework.Test.csprojAssemblyReference.cache
+E:\unitofwork\UnitOfWork.Resposity\Framework.Test\obj\Debug\NetFramework.Test.csproj.CoreCompileInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\Framework.Test\obj\Debug\NetFramework.Test.csproj.CopyComplete
+E:\unitofwork\UnitOfWork.Resposity\Framework.Test\obj\Debug\Framework.Test.exe
+E:\unitofwork\UnitOfWork.Resposity\Framework.Test\obj\Debug\Framework.Test.pdb

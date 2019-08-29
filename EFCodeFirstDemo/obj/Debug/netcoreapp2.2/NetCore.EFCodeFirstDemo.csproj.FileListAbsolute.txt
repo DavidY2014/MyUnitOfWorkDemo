@@ -1,0 +1,14 @@
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\bin\Debug\netcoreapp2.2\NetCore.EFCodeFirstDemo.deps.json
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\bin\Debug\netcoreapp2.2\NetCore.EFCodeFirstDemo.runtimeconfig.json
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\bin\Debug\netcoreapp2.2\NetCore.EFCodeFirstDemo.runtimeconfig.dev.json
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\bin\Debug\netcoreapp2.2\NetCore.EFCodeFirstDemo.dll
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\obj\Debug\netcoreapp2.2\NetCore.EFCodeFirstDemo.csproj.CoreCompileInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\obj\Debug\netcoreapp2.2\NetCore.EFCodeFirstDemo.AssemblyInfoInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\obj\Debug\netcoreapp2.2\NetCore.EFCodeFirstDemo.AssemblyInfo.cs
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\bin\Debug\netcoreapp2.2\NetCore.EFCodeFirstDemo.pdb
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\obj\Debug\netcoreapp2.2\NetCore.EFCodeFirstDemo.csprojAssemblyReference.cache
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\obj\Debug\netcoreapp2.2\NetCore.EFCodeFirstDemo.dll
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\obj\Debug\netcoreapp2.2\NetCore.EFCodeFirstDemo.pdb
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\bin\Debug\netcoreapp2.2\NetCore.CodeFirstLibrary.DataAccess.dll
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\bin\Debug\netcoreapp2.2\NetCore.CodeFirstLibrary.DataAccess.pdb
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\obj\Debug\netcoreapp2.2\NetCore.EFCodeFirstDemo.csproj.CopyComplete

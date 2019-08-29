@@ -1,0 +1,12 @@
+E:\unitofwork\UnitOfWork.Resposity\NetFramework.DataAccess\bin\Debug\NetFramework.DataAccess.dll.config
+E:\unitofwork\UnitOfWork.Resposity\NetFramework.DataAccess\bin\Debug\NetFramework.DataAccess.dll
+E:\unitofwork\UnitOfWork.Resposity\NetFramework.DataAccess\bin\Debug\NetFramework.DataAccess.pdb
+E:\unitofwork\UnitOfWork.Resposity\NetFramework.DataAccess\bin\Debug\EntityFramework.dll
+E:\unitofwork\UnitOfWork.Resposity\NetFramework.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\unitofwork\UnitOfWork.Resposity\NetFramework.DataAccess\bin\Debug\EntityFramework.xml
+E:\unitofwork\UnitOfWork.Resposity\NetFramework.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\unitofwork\UnitOfWork.Resposity\NetFramework.DataAccess\obj\Debug\NetFramework.DataAccess.csprojAssemblyReference.cache
+E:\unitofwork\UnitOfWork.Resposity\NetFramework.DataAccess\obj\Debug\NetFramework.DataAccess.csproj.CoreCompileInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\NetFramework.DataAccess\obj\Debug\NetFramework.DataAccess.csproj.CopyComplete
+E:\unitofwork\UnitOfWork.Resposity\NetFramework.DataAccess\obj\Debug\NetFramework.DataAccess.dll
+E:\unitofwork\UnitOfWork.Resposity\NetFramework.DataAccess\obj\Debug\NetFramework.DataAccess.pdb

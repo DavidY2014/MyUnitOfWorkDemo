@@ -1,0 +1,11 @@
+E:\unitofwork\UnitOfWork.Resposity\CodeFirstLibrary\bin\Debug\netcoreapp2.2\NetCore.CodeFirstLibrary.DataAccess.deps.json
+E:\unitofwork\UnitOfWork.Resposity\CodeFirstLibrary\bin\Debug\netcoreapp2.2\NetCore.CodeFirstLibrary.DataAccess.dll
+E:\unitofwork\UnitOfWork.Resposity\CodeFirstLibrary\obj\Debug\netcoreapp2.2\NetCore.CodeFirstLibrary.DataAccess.csprojAssemblyReference.cache
+E:\unitofwork\UnitOfWork.Resposity\CodeFirstLibrary\obj\Debug\netcoreapp2.2\NetCore.CodeFirstLibrary.DataAccess.csproj.CoreCompileInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\CodeFirstLibrary\obj\Debug\netcoreapp2.2\NetCore.CodeFirstLibrary.DataAccess.AssemblyInfoInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\CodeFirstLibrary\obj\Debug\netcoreapp2.2\NetCore.CodeFirstLibrary.DataAccess.AssemblyInfo.cs
+E:\unitofwork\UnitOfWork.Resposity\CodeFirstLibrary\bin\Debug\netcoreapp2.2\NetCore.CodeFirstLibrary.DataAccess.pdb
+E:\unitofwork\UnitOfWork.Resposity\CodeFirstLibrary\obj\Debug\netcoreapp2.2\NetCore.CodeFirstLibrary.DataAccess.dll
+E:\unitofwork\UnitOfWork.Resposity\CodeFirstLibrary\obj\Debug\netcoreapp2.2\NetCore.CodeFirstLibrary.DataAccess.pdb
+E:\unitofwork\UnitOfWork.Resposity\CodeFirstLibrary\bin\Debug\netcoreapp2.2\NetCore.CodeFirstLibrary.DataAccess.runtimeconfig.json
+E:\unitofwork\UnitOfWork.Resposity\CodeFirstLibrary\bin\Debug\netcoreapp2.2\NetCore.CodeFirstLibrary.DataAccess.runtimeconfig.dev.json

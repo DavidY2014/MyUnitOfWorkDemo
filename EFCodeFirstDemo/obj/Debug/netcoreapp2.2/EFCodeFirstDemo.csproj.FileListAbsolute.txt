@@ -1,0 +1,11 @@
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\bin\Debug\netcoreapp2.2\EFCodeFirstDemo.deps.json
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\bin\Debug\netcoreapp2.2\EFCodeFirstDemo.runtimeconfig.json
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\bin\Debug\netcoreapp2.2\EFCodeFirstDemo.runtimeconfig.dev.json
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\bin\Debug\netcoreapp2.2\EFCodeFirstDemo.dll
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\obj\Debug\netcoreapp2.2\EFCodeFirstDemo.csproj.CoreCompileInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\obj\Debug\netcoreapp2.2\EFCodeFirstDemo.AssemblyInfoInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\obj\Debug\netcoreapp2.2\EFCodeFirstDemo.AssemblyInfo.cs
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\bin\Debug\netcoreapp2.2\EFCodeFirstDemo.pdb
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\obj\Debug\netcoreapp2.2\EFCodeFirstDemo.dll
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\obj\Debug\netcoreapp2.2\EFCodeFirstDemo.pdb
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\obj\Debug\netcoreapp2.2\EFCodeFirstDemo.csprojAssemblyReference.cache

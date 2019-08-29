@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/config
+./Database1
+/.vs/UnitOfWork.Resposity/v15/Server/sqlite3

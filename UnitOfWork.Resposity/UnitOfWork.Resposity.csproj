@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CodeFirstLibrary\NetCore.CodeFirstLibrary.DataAccess.csproj" />
     <ProjectReference Include="..\UnitOfWorkLibary\UnitOfWorkLibary.csproj" />
   </ItemGroup>
 
