@@ -5,6 +5,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Netcore.Services.Implements;
+using Netcore.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -25,6 +27,12 @@ namespace EFCodeFirstDemo
         {
             services.AddDbContext<AirCraftContext>(opts => opts.UseSqlServer(Configuration["ConnectionString:CodeFirstDB"]));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+
+            services.AddTransient<ICustom, MyCustom>();
+            services.AddScoped<IService,MyService>();
+            services.AddSingleton<ICustom,MyCustom>();
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

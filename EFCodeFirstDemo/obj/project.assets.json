@@ -4732,6 +4732,16 @@
         "runtime": {
           "bin/placeholder/NetCore.CodeFirstLibrary.DataAccess.dll": {}
         }
+      },
+      "Netcore.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/Netcore.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Netcore.Services.dll": {}
+        }
       }
     }
   },
@@ -12940,12 +12950,18 @@
       "type": "project",
       "path": "../CodeFirstLibrary/NetCore.CodeFirstLibrary.DataAccess.csproj",
       "msbuildProject": "../CodeFirstLibrary/NetCore.CodeFirstLibrary.DataAccess.csproj"
+    },
+    "Netcore.Services/1.0.0": {
+      "type": "project",
+      "path": "../Netcore.Services/Netcore.Services.csproj",
+      "msbuildProject": "../Netcore.Services/Netcore.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.NETCore.App >= 2.2.0",
-      "NetCore.CodeFirstLibrary.DataAccess >= 1.0.0"
+      "NetCore.CodeFirstLibrary.DataAccess >= 1.0.0",
+      "Netcore.Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12982,6 +12998,9 @@
           "projectReferences": {
             "E:\\unitofwork\\UnitOfWork.Resposity\\CodeFirstLibrary\\NetCore.CodeFirstLibrary.DataAccess.csproj": {
               "projectPath": "E:\\unitofwork\\UnitOfWork.Resposity\\CodeFirstLibrary\\NetCore.CodeFirstLibrary.DataAccess.csproj"
+            },
+            "E:\\unitofwork\\UnitOfWork.Resposity\\Netcore.Services\\Netcore.Services.csproj": {
+              "projectPath": "E:\\unitofwork\\UnitOfWork.Resposity\\Netcore.Services\\Netcore.Services.csproj"
             }
           }
         }
