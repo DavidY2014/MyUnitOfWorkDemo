@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v2.2": {
       "NetCore.EFCodeFirstDemo/1.0.0": {
         "dependencies": {
-          "NetCore.CodeFirstLibrary.DataAccess": "1.0.0"
+          "NetCore.CodeFirstLibrary.DataAccess": "1.0.0",
+          "Netcore.Services": "1.0.0"
         },
         "runtime": {
           "NetCore.EFCodeFirstDemo.dll": {}
@@ -3704,6 +3705,11 @@
         "runtime": {
           "NetCore.CodeFirstLibrary.DataAccess.dll": {}
         }
+      },
+      "Netcore.Services/1.0.0": {
+        "runtime": {
+          "Netcore.Services.dll": {}
+        }
       }
     }
   },
@@ -5772,6 +5778,11 @@
       "hashPath": "system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
     },
     "NetCore.CodeFirstLibrary.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Netcore.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

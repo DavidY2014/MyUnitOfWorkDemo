@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netcore.Services", "Netcore
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.Web", "NetCore.Web\NetCore.Web.csproj", "{1CC379CD-E2E9-4C57-BD72-C6FDB5F89F4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netcore.Console", "Netcore.Console\Netcore.Console.csproj", "{4B6F0D8B-3C17-4FDA-AE1C-D63249EC0A3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.SmallUnit", "NetCore.SmallUnit\NetCore.SmallUnit.csproj", "{B64BBF7B-981F-4DEE-82A5-27DC6568382E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{1CC379CD-E2E9-4C57-BD72-C6FDB5F89F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CC379CD-E2E9-4C57-BD72-C6FDB5F89F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CC379CD-E2E9-4C57-BD72-C6FDB5F89F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B6F0D8B-3C17-4FDA-AE1C-D63249EC0A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6F0D8B-3C17-4FDA-AE1C-D63249EC0A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6F0D8B-3C17-4FDA-AE1C-D63249EC0A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6F0D8B-3C17-4FDA-AE1C-D63249EC0A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B64BBF7B-981F-4DEE-82A5-27DC6568382E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64BBF7B-981F-4DEE-82A5-27DC6568382E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64BBF7B-981F-4DEE-82A5-27DC6568382E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64BBF7B-981F-4DEE-82A5-27DC6568382E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

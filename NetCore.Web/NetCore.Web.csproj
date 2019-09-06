@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Netcore.Services\Netcore.Services.csproj" />
+    <ProjectReference Include="..\NetCore.SmallUnit\NetCore.SmallUnit.csproj" />
   </ItemGroup>
 
 </Project>

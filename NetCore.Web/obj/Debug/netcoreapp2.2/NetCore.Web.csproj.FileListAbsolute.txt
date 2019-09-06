@@ -9,9 +9,9 @@ E:\unitofwork\UnitOfWork.Resposity\NetCore.Web\obj\Debug\netcoreapp2.2\NetCore.W
 E:\unitofwork\UnitOfWork.Resposity\NetCore.Web\obj\Debug\netcoreapp2.2\NetCore.Web.AssemblyInfoInputs.cache
 E:\unitofwork\UnitOfWork.Resposity\NetCore.Web\obj\Debug\netcoreapp2.2\NetCore.Web.AssemblyInfo.cs
 E:\unitofwork\UnitOfWork.Resposity\NetCore.Web\obj\Debug\netcoreapp2.2\NetCore.Web.RazorTargetAssemblyInfo.cache
-E:\unitofwork\UnitOfWork.Resposity\NetCore.Web\bin\Debug\netcoreapp2.2\Netcore.Services.dll
 E:\unitofwork\UnitOfWork.Resposity\NetCore.Web\bin\Debug\netcoreapp2.2\NetCore.Web.pdb
-E:\unitofwork\UnitOfWork.Resposity\NetCore.Web\bin\Debug\netcoreapp2.2\Netcore.Services.pdb
 E:\unitofwork\UnitOfWork.Resposity\NetCore.Web\obj\Debug\netcoreapp2.2\NetCore.Web.csproj.CopyComplete
 E:\unitofwork\UnitOfWork.Resposity\NetCore.Web\obj\Debug\netcoreapp2.2\NetCore.Web.dll
 E:\unitofwork\UnitOfWork.Resposity\NetCore.Web\obj\Debug\netcoreapp2.2\NetCore.Web.pdb
+E:\unitofwork\UnitOfWork.Resposity\NetCore.Web\bin\Debug\netcoreapp2.2\NetCore.SmallUnit.dll
+E:\unitofwork\UnitOfWork.Resposity\NetCore.Web\bin\Debug\netcoreapp2.2\NetCore.SmallUnit.pdb

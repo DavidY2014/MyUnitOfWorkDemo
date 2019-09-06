@@ -13,8 +13,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using Netcore.Services.Implements;
-using Netcore.Services.Interfaces;
 using Swashbuckle.AspNetCore.Swagger;
 
 namespace NetCore.Web
@@ -34,6 +32,11 @@ namespace NetCore.Web
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
+        /// <summary>
+        /// Assembly.LoadFile只载入相应的dll文件，比如Assembly.LoadFile("a.dll")，则载入a.dll，假如a.dll中引用了b.dll的话，b.dll并不会被载入。
+        /// Assembly.LoadFrom则不一样，它会载入dll文件及其引用的其他dll，比如上面的例子，b.dll也会被载入。
+        /// </summary>
+        /// <param name="services"></param>
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
@@ -51,10 +54,10 @@ namespace NetCore.Web
 
             #region token register
 
-            services.AddSingleton<IService>(factory => {
-                var service = new MyService();
-                return service;
-            });
+            //services.AddSingleton<IService>(factory => {
+            //    var service = new MyService(new );
+            //    return service;
+            //});
             //权限管理
             services.AddAuthorization(options =>
             {

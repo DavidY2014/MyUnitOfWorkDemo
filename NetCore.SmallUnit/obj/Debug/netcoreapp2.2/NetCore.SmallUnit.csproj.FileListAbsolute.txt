@@ -1,0 +1,11 @@
+E:\unitofwork\UnitOfWork.Resposity\NetCore.SmallUnit\bin\Debug\netcoreapp2.2\NetCore.SmallUnit.deps.json
+E:\unitofwork\UnitOfWork.Resposity\NetCore.SmallUnit\bin\Debug\netcoreapp2.2\NetCore.SmallUnit.dll
+E:\unitofwork\UnitOfWork.Resposity\NetCore.SmallUnit\obj\Debug\netcoreapp2.2\NetCore.SmallUnit.csprojAssemblyReference.cache
+E:\unitofwork\UnitOfWork.Resposity\NetCore.SmallUnit\obj\Debug\netcoreapp2.2\NetCore.SmallUnit.csproj.CoreCompileInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\NetCore.SmallUnit\obj\Debug\netcoreapp2.2\NetCore.SmallUnit.AssemblyInfoInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\NetCore.SmallUnit\obj\Debug\netcoreapp2.2\NetCore.SmallUnit.AssemblyInfo.cs
+E:\unitofwork\UnitOfWork.Resposity\NetCore.SmallUnit\bin\Debug\netcoreapp2.2\NetCore.SmallUnit.runtimeconfig.json
+E:\unitofwork\UnitOfWork.Resposity\NetCore.SmallUnit\bin\Debug\netcoreapp2.2\NetCore.SmallUnit.runtimeconfig.dev.json
+E:\unitofwork\UnitOfWork.Resposity\NetCore.SmallUnit\bin\Debug\netcoreapp2.2\NetCore.SmallUnit.pdb
+E:\unitofwork\UnitOfWork.Resposity\NetCore.SmallUnit\obj\Debug\netcoreapp2.2\NetCore.SmallUnit.dll
+E:\unitofwork\UnitOfWork.Resposity\NetCore.SmallUnit\obj\Debug\netcoreapp2.2\NetCore.SmallUnit.pdb

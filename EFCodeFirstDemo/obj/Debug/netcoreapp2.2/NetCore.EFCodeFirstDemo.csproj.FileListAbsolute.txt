@@ -12,3 +12,5 @@ E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\obj\Debug\netcoreapp2.2\NetCo
 E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\bin\Debug\netcoreapp2.2\NetCore.CodeFirstLibrary.DataAccess.dll
 E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\bin\Debug\netcoreapp2.2\NetCore.CodeFirstLibrary.DataAccess.pdb
 E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\obj\Debug\netcoreapp2.2\NetCore.EFCodeFirstDemo.csproj.CopyComplete
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\bin\Debug\netcoreapp2.2\Netcore.Services.dll
+E:\unitofwork\UnitOfWork.Resposity\EFCodeFirstDemo\bin\Debug\netcoreapp2.2\Netcore.Services.pdb
