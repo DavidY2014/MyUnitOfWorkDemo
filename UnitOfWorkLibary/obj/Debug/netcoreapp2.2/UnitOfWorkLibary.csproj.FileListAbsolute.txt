@@ -8,4 +8,3 @@ E:\unitofwork\UnitOfWork.Resposity\UnitOfWorkLibary\obj\Debug\netcoreapp2.2\Unit
 E:\unitofwork\UnitOfWork.Resposity\UnitOfWorkLibary\obj\Debug\netcoreapp2.2\UnitOfWorkLibary.pdb
 E:\unitofwork\UnitOfWork.Resposity\UnitOfWorkLibary\bin\Debug\netcoreapp2.2\UnitOfWorkLibary.runtimeconfig.json
 E:\unitofwork\UnitOfWork.Resposity\UnitOfWorkLibary\bin\Debug\netcoreapp2.2\UnitOfWorkLibary.runtimeconfig.dev.json
-E:\unitofwork\UnitOfWork.Resposity\UnitOfWorkLibary\obj\Debug\netcoreapp2.2\UnitOfWorkLibary.csprojAssemblyReference.cache

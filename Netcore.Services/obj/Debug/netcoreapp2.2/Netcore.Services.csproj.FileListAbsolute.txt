@@ -6,3 +6,11 @@ E:\unitofwork\UnitOfWork.Resposity\Netcore.Services\bin\Debug\netcoreapp2.2\Netc
 E:\unitofwork\UnitOfWork.Resposity\Netcore.Services\bin\Debug\netcoreapp2.2\Netcore.Services.pdb
 E:\unitofwork\UnitOfWork.Resposity\Netcore.Services\obj\Debug\netcoreapp2.2\Netcore.Services.dll
 E:\unitofwork\UnitOfWork.Resposity\Netcore.Services\obj\Debug\netcoreapp2.2\Netcore.Services.pdb
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Services\bin\Debug\netcoreapp2.2\Netcore.Services.pssym
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Services\obj\Debug\netcoreapp2.2\PostSharp\touch
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Services\obj\Debug\netcoreapp2.2\PostSharp\dependencies.txt
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Services\obj\Debug\netcoreapp2.2\PostSharp\postsharp.app.config
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Services\obj\Debug\netcoreapp2.2\Netcore.Services.csprojAssemblyReference.cache
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Services\bin\Debug\netcoreapp2.2\UnitOfWorkLibary.dll
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Services\bin\Debug\netcoreapp2.2\UnitOfWorkLibary.pdb
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Services\obj\Debug\netcoreapp2.2\Netcore.Services.csproj.CopyComplete

@@ -23,15 +23,15 @@ namespace UnitOfWorkLibary.Units
         }
 
 
-        IGenericRepository<Students> IUnitOfWork.StudentsRepository
-        {
-            get { return _studentsRepos; }
-        }
+        //IGenericRepository<Students> IUnitOfWork.StudentsRepository
+        //{
+        //    get { return _studentsRepos; }
+        //}
 
-        IGenericRepository<UserLogin> IUnitOfWork.UserLoginRepository
-        {
-            get { return _userLoginRepos; }
-        }
+        //IGenericRepository<UserLogin> IUnitOfWork.UserLoginRepository
+        //{
+        //    get { return _userLoginRepos; }
+        //}
 
 
 

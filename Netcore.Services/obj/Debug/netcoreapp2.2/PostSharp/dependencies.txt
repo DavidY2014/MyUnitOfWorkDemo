@@ -1,0 +1,2 @@
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Services\obj\Debug\netcoreapp2.2\PostSharp\PostSharp.Compiler.Engine.dll
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Services\obj\Debug\netcoreapp2.2\PostSharp\postsharp.config

@@ -11,7 +11,7 @@ namespace UnitOfWorkLibary
     public class UnitOfWork1 : UnitOfWorkBase
     {
         private readonly DbContext _dbContext;
-        public IRepository<TworkOrderUser> TworkOrderUserRepository => new BaseRepository<TworkOrderUser>(_dbContext);
+        //public IRepository<TworkOrderUser> TworkOrderUserRepository => new BaseRepository<TworkOrderUser>(_dbContext);
 
         public UnitOfWork1(DbContext dbContext):base(dbContext)
         {

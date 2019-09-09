@@ -14,5 +14,6 @@
   </PropertyGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.netcore.app\2.2.0\build\netcoreapp2.2\Microsoft.NETCore.App.props" Condition="Exists('C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.netcore.app\2.2.0\build\netcoreapp2.2\Microsoft.NETCore.App.props')" />
+    <Import Project="$(NuGetPackageRoot)postsharp\6.2.11\build\PostSharp.props" Condition="Exists('$(NuGetPackageRoot)postsharp\6.2.11\build\PostSharp.props')" />
   </ImportGroup>
 </Project>

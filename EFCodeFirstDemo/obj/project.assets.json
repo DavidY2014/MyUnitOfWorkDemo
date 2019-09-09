@@ -2888,6 +2888,30 @@
           "lib/netstandard1.6/NuGet.Frameworks.dll": {}
         }
       },
+      "PostSharp/6.2.11": {
+        "type": "package",
+        "dependencies": {
+          "PostSharp.Redist": "[6.2.11, 7.0.0)"
+        },
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "build": {
+          "build/_._": {}
+        }
+      },
+      "PostSharp.Redist/6.2.11": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/PostSharp.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/PostSharp.dll": {}
+        }
+      },
       "Remotion.Linq/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -4736,11 +4760,30 @@
       "Netcore.Services/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "PostSharp": "6.2.11",
+          "UnitOfWorkLibary": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Netcore.Services.dll": {}
         },
         "runtime": {
           "bin/placeholder/Netcore.Services.dll": {}
+        }
+      },
+      "UnitOfWorkLibary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.2.6",
+          "Microsoft.EntityFrameworkCore.Design": "2.2.6",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.2.6"
+        },
+        "compile": {
+          "bin/placeholder/UnitOfWorkLibary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnitOfWorkLibary.dll": {}
         }
       }
     }
@@ -8120,6 +8163,48 @@
         "lib/netstandard1.6/NuGet.Frameworks.xml",
         "nuget.frameworks.4.7.0.nupkg.sha512",
         "nuget.frameworks.nuspec"
+      ]
+    },
+    "PostSharp/6.2.11": {
+      "sha512": "fJl1ysNzbsQzW/X5Z7mdLdCBG5aCMTfIQMnZj4n0qj7JcpTuTr/AEOZcIxnhlVPWRj9jc3PPJsvgfvhiBgpDqA==",
+      "type": "package",
+      "path": "postsharp/6.2.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/PostSharp-Tools.exe",
+        "build/PostSharp.Version.properties",
+        "build/PostSharp.properties",
+        "build/PostSharp.props",
+        "build/PostSharp.targets",
+        "build/PostSharp.tasks",
+        "build/net471/PostSharp.MSBuild.v6.2.11.Release.dll",
+        "build/net471/PostSharp.MSBuild.v6.2.11.Release.pdb",
+        "build/netcoreapp2.1/PostSharp.MSBuild.v6.2.11.Release.dll",
+        "build/netcoreapp2.1/PostSharp.MSBuild.v6.2.11.Release.pdb",
+        "lib/net35-client/_._",
+        "lib/netstandard1.0/_._",
+        "postsharp.6.2.11.nupkg.sha512",
+        "postsharp.nuspec"
+      ]
+    },
+    "PostSharp.Redist/6.2.11": {
+      "sha512": "N006erdrvrJcS41JjuYh7UYAp5+RtpTBn3zNixE8LSe0fDxHmif36SdMy8CcrWqrqVHpvLz3du57Lm5zMFw96Q==",
+      "type": "package",
+      "path": "postsharp.redist/6.2.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35-client/PostSharp.dll",
+        "lib/net35-client/PostSharp.xml",
+        "lib/net45/PostSharp.dll",
+        "lib/net45/PostSharp.xml",
+        "lib/netstandard1.3/PostSharp.dll",
+        "lib/netstandard1.3/PostSharp.xml",
+        "lib/netstandard2.0/PostSharp.dll",
+        "lib/netstandard2.0/PostSharp.xml",
+        "postsharp.redist.6.2.11.nupkg.sha512",
+        "postsharp.redist.nuspec"
       ]
     },
     "Remotion.Linq/2.2.0": {
@@ -12955,6 +13040,11 @@
       "type": "project",
       "path": "../Netcore.Services/Netcore.Services.csproj",
       "msbuildProject": "../Netcore.Services/Netcore.Services.csproj"
+    },
+    "UnitOfWorkLibary/1.0.0": {
+      "type": "project",
+      "path": "../UnitOfWorkLibary/UnitOfWorkLibary.csproj",
+      "msbuildProject": "../UnitOfWorkLibary/UnitOfWorkLibary.csproj"
     }
   },
   "projectFileDependencyGroups": {

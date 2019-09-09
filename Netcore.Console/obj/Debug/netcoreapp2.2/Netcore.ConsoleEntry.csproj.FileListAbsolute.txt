@@ -1,0 +1,16 @@
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\obj\Debug\netcoreapp2.2\Netcore.ConsoleEntry.csprojAssemblyReference.cache
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\obj\Debug\netcoreapp2.2\Netcore.ConsoleEntry.csproj.CoreCompileInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\obj\Debug\netcoreapp2.2\Netcore.ConsoleEntry.AssemblyInfoInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\obj\Debug\netcoreapp2.2\Netcore.ConsoleEntry.AssemblyInfo.cs
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\bin\Debug\netcoreapp2.2\Netcore.ConsoleEntry.deps.json
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\bin\Debug\netcoreapp2.2\Netcore.ConsoleEntry.runtimeconfig.json
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\bin\Debug\netcoreapp2.2\Netcore.ConsoleEntry.runtimeconfig.dev.json
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\bin\Debug\netcoreapp2.2\Netcore.ConsoleEntry.dll
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\bin\Debug\netcoreapp2.2\Netcore.ConsoleEntry.pdb
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\obj\Debug\netcoreapp2.2\Netcore.ConsoleEntry.dll
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\obj\Debug\netcoreapp2.2\Netcore.ConsoleEntry.pdb
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\bin\Debug\netcoreapp2.2\Netcore.Services.dll
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\bin\Debug\netcoreapp2.2\Netcore.Services.pdb
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\obj\Debug\netcoreapp2.2\Netcore.ConsoleEntry.csproj.CopyComplete
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\bin\Debug\netcoreapp2.2\UnitOfWorkLibary.dll
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\bin\Debug\netcoreapp2.2\UnitOfWorkLibary.pdb

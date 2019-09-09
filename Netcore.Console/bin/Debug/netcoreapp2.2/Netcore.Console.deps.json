@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "0af6ca8f98df6be469b58185b2584200edef448b"
+    "signature": "59c220ec7f1651f44f0d3d0539f25aaad17417d9"
   },
   "compilationOptions": {},
   "targets": {
@@ -23,7 +23,23 @@
           }
         }
       },
+      "PostSharp/6.2.11": {
+        "dependencies": {
+          "PostSharp.Redist": "6.2.11"
+        }
+      },
+      "PostSharp.Redist/6.2.11": {
+        "runtime": {
+          "lib/netstandard2.0/PostSharp.dll": {
+            "assemblyVersion": "6.2.11.0",
+            "fileVersion": "6.2.11.0"
+          }
+        }
+      },
       "Netcore.Services/1.0.0": {
+        "dependencies": {
+          "PostSharp": "6.2.11"
+        },
         "runtime": {
           "Netcore.Services.dll": {}
         }
@@ -42,6 +58,20 @@
       "sha512": "sha512-dYiDG4yoV7GDCoOc66d1sqMmg2gwDyomHKgATuMfhFzYxVpWEltToHVHXI3I9vOEvIXE55S4OZPY0ldiZmZtpA==",
       "path": "autofac/4.9.4",
       "hashPath": "autofac.4.9.4.nupkg.sha512"
+    },
+    "PostSharp/6.2.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fJl1ysNzbsQzW/X5Z7mdLdCBG5aCMTfIQMnZj4n0qj7JcpTuTr/AEOZcIxnhlVPWRj9jc3PPJsvgfvhiBgpDqA==",
+      "path": "postsharp/6.2.11",
+      "hashPath": "postsharp.6.2.11.nupkg.sha512"
+    },
+    "PostSharp.Redist/6.2.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-N006erdrvrJcS41JjuYh7UYAp5+RtpTBn3zNixE8LSe0fDxHmif36SdMy8CcrWqrqVHpvLz3du57Lm5zMFw96Q==",
+      "path": "postsharp.redist/6.2.11",
+      "hashPath": "postsharp.redist.6.2.11.nupkg.sha512"
     },
     "Netcore.Services/1.0.0": {
       "type": "project",

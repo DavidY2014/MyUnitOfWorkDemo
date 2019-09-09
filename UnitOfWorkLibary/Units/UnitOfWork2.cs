@@ -12,7 +12,7 @@ namespace UnitOfWorkLibary
     {
         private readonly DbContext _dbContext;
 
-        public IRepository<Tcustomer> TworkOrderUserRepository => new BaseRepository<Tcustomer>(_dbContext);
+        //public IRepository<Tcustomer> TworkOrderUserRepository => new BaseRepository<Tcustomer>(_dbContext);
         public UnitOfWork2(DbContext dbContext):base(dbContext)
         {
             _dbContext = dbContext;

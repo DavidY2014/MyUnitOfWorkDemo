@@ -13,13 +13,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework.Test", "Framew
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore.EFCodeFirstDemo", "EFCodeFirstDemo\NetCore.EFCodeFirstDemo.csproj", "{34FEAA71-6190-45C3-9758-19D34AEEFCB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netcore.Services", "Netcore.Services\Netcore.Services.csproj", "{031B88EC-9CF4-4905-8580-2F54C5F8C945}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Netcore.Services", "Netcore.Services\Netcore.Services.csproj", "{031B88EC-9CF4-4905-8580-2F54C5F8C945}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.Web", "NetCore.Web\NetCore.Web.csproj", "{1CC379CD-E2E9-4C57-BD72-C6FDB5F89F4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore.Web", "NetCore.Web\NetCore.Web.csproj", "{1CC379CD-E2E9-4C57-BD72-C6FDB5F89F4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netcore.Console", "Netcore.Console\Netcore.Console.csproj", "{4B6F0D8B-3C17-4FDA-AE1C-D63249EC0A3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Netcore.ConsoleEntry", "Netcore.Console\Netcore.ConsoleEntry.csproj", "{4B6F0D8B-3C17-4FDA-AE1C-D63249EC0A3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.SmallUnit", "NetCore.SmallUnit\NetCore.SmallUnit.csproj", "{B64BBF7B-981F-4DEE-82A5-27DC6568382E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore.SmallUnit", "NetCore.SmallUnit\NetCore.SmallUnit.csproj", "{B64BBF7B-981F-4DEE-82A5-27DC6568382E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

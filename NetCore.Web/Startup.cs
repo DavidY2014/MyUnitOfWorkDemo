@@ -13,6 +13,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using NetCore.Web.AOP;
 using Swashbuckle.AspNetCore.Swagger;
 
 namespace NetCore.Web
@@ -39,6 +40,14 @@ namespace NetCore.Web
         /// <param name="services"></param>
         public void ConfigureServices(IServiceCollection services)
         {
+            #region aop
+            //services.AddScoped<ICache, MemCache<>>();
+
+
+
+            #endregion
+
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             #region swagger UI
