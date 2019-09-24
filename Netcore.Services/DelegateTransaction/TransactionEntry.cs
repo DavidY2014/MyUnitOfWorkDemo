@@ -11,7 +11,7 @@ namespace Netcore.Services.DelegateTransaction
         /// FP 函数 High order function
         /// </summary>
         /// <param name="actions"></param>
-        public static void NeedTransactionBussinessLogic(Action[] actions)
+        public static void NeedTransactionBussinessLogic(Action[] actions,bool isSubmit)
         {
             using (var context = new TestDBContext())
             {
@@ -24,11 +24,16 @@ namespace Netcore.Services.DelegateTransaction
                             action();
                         }
                     }
-                    context.SaveChanges();
+                    if(isSubmit)
+                        context.SaveChanges(true);
                 }
                 catch (Exception ex)
                 {
                     context.Database.RollbackTransaction();
+                }
+                finally
+                {
+                    context.Dispose();
                 }
             }
 

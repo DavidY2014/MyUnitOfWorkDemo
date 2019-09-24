@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Netcore.ConsoleEntry", "Net
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore.SmallUnit", "NetCore.SmallUnit\NetCore.SmallUnit.csproj", "{B64BBF7B-981F-4DEE-82A5-27DC6568382E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiInterface.CheckAlive", "WebApiInterface.CheckAlive\WebApiInterface.CheckAlive.csproj", "{E02D578D-CB73-42FE-84BE-219E798FC213}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B64BBF7B-981F-4DEE-82A5-27DC6568382E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B64BBF7B-981F-4DEE-82A5-27DC6568382E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B64BBF7B-981F-4DEE-82A5-27DC6568382E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E02D578D-CB73-42FE-84BE-219E798FC213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02D578D-CB73-42FE-84BE-219E798FC213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02D578D-CB73-42FE-84BE-219E798FC213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02D578D-CB73-42FE-84BE-219E798FC213}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -25,7 +25,7 @@ namespace Netcore.ConsoleEntry
             {
                 Console.WriteLine("bussiness 3");
             });
-            TransactionEntry.NeedTransactionBussinessLogic(actions.ToArray());
+            TransactionEntry.NeedTransactionBussinessLogic(actions.ToArray(),false);
 
 
         }
