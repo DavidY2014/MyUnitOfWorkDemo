@@ -1,0 +1,17 @@
+E:\unitofwork\UnitOfWork.Resposity\WeChatPublc\bin\Debug\netcoreapp2.2\WeChatPublc.deps.json
+E:\unitofwork\UnitOfWork.Resposity\WeChatPublc\bin\Debug\netcoreapp2.2\WeChatPublc.runtimeconfig.json
+E:\unitofwork\UnitOfWork.Resposity\WeChatPublc\bin\Debug\netcoreapp2.2\WeChatPublc.runtimeconfig.dev.json
+E:\unitofwork\UnitOfWork.Resposity\WeChatPublc\bin\Debug\netcoreapp2.2\WeChatPublc.dll
+E:\unitofwork\UnitOfWork.Resposity\WeChatPublc\bin\Debug\netcoreapp2.2\WeChatPublc.pdb
+E:\unitofwork\UnitOfWork.Resposity\WeChatPublc\obj\Debug\netcoreapp2.2\WeChatPublc.csproj.CoreCompileInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\WeChatPublc\obj\Debug\netcoreapp2.2\WeChatPublc.RazorAssemblyInfo.cache
+E:\unitofwork\UnitOfWork.Resposity\WeChatPublc\obj\Debug\netcoreapp2.2\WeChatPublc.RazorAssemblyInfo.cs
+E:\unitofwork\UnitOfWork.Resposity\WeChatPublc\obj\Debug\netcoreapp2.2\WeChatPublc.AssemblyInfoInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\WeChatPublc\obj\Debug\netcoreapp2.2\WeChatPublc.AssemblyInfo.cs
+E:\unitofwork\UnitOfWork.Resposity\WeChatPublc\obj\Debug\netcoreapp2.2\WeChatPublc.RazorTargetAssemblyInfo.cache
+E:\unitofwork\UnitOfWork.Resposity\WeChatPublc\obj\Debug\netcoreapp2.2\WeChatPublc.dll
+E:\unitofwork\UnitOfWork.Resposity\WeChatPublc\obj\Debug\netcoreapp2.2\WeChatPublc.pdb
+E:\unitofwork\UnitOfWork.Resposity\WeChatPublc\bin\Debug\netcoreapp2.2\NetCore.SmallUnit.dll
+E:\unitofwork\UnitOfWork.Resposity\WeChatPublc\bin\Debug\netcoreapp2.2\NetCore.SmallUnit.pdb
+E:\unitofwork\UnitOfWork.Resposity\WeChatPublc\obj\Debug\netcoreapp2.2\WeChatPublc.csprojAssemblyReference.cache
+E:\unitofwork\UnitOfWork.Resposity\WeChatPublc\obj\Debug\netcoreapp2.2\WeChatPublc.csproj.CopyComplete

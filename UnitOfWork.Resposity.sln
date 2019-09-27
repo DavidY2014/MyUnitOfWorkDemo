@@ -21,7 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Netcore.ConsoleEntry", "Net
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore.SmallUnit", "NetCore.SmallUnit\NetCore.SmallUnit.csproj", "{B64BBF7B-981F-4DEE-82A5-27DC6568382E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiInterface.CheckAlive", "WebApiInterface.CheckAlive\WebApiInterface.CheckAlive.csproj", "{E02D578D-CB73-42FE-84BE-219E798FC213}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiInterface.CheckAlive", "WebApiInterface.CheckAlive\WebApiInterface.CheckAlive.csproj", "{E02D578D-CB73-42FE-84BE-219E798FC213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionControl", "TransactionControl\TransactionControl.csproj", "{36D27F4C-618E-458C-8A5A-5EA04C02F138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeCommunication", "RealTimeCommunication\RealTimeCommunication.csproj", "{3D6EE3E2-0D58-4DA9-B6C2-E3B74F9D857C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeChatPublc", "WeChatPublc\WeChatPublc.csproj", "{8C55CDF3-7743-41F6-9C21-1C76CA6BB941}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +75,18 @@ Global
 		{E02D578D-CB73-42FE-84BE-219E798FC213}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E02D578D-CB73-42FE-84BE-219E798FC213}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E02D578D-CB73-42FE-84BE-219E798FC213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D27F4C-618E-458C-8A5A-5EA04C02F138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D27F4C-618E-458C-8A5A-5EA04C02F138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D27F4C-618E-458C-8A5A-5EA04C02F138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D27F4C-618E-458C-8A5A-5EA04C02F138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6EE3E2-0D58-4DA9-B6C2-E3B74F9D857C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6EE3E2-0D58-4DA9-B6C2-E3B74F9D857C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6EE3E2-0D58-4DA9-B6C2-E3B74F9D857C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6EE3E2-0D58-4DA9-B6C2-E3B74F9D857C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C55CDF3-7743-41F6-9C21-1C76CA6BB941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C55CDF3-7743-41F6-9C21-1C76CA6BB941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C55CDF3-7743-41F6-9C21-1C76CA6BB941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C55CDF3-7743-41F6-9C21-1C76CA6BB941}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

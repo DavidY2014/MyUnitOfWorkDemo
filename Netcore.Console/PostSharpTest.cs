@@ -1,5 +1,4 @@
-﻿using Acm.NetStandard.Helper;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -24,7 +23,7 @@ namespace Netcore.ConsoleEntry
     {
         public static void Test()
         {
-            FileHelper.WriteJsonToFile("", "");
+            //FileHelper.WriteJsonToFile("", "");
         }
     }
 }

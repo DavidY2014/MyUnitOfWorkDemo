@@ -970,6 +970,34 @@
           "bin/placeholder/Netcore.Services.dll": {}
         }
       },
+      "NetCore.SmallUnit/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.2.6",
+          "Microsoft.EntityFrameworkCore.Design": "2.2.6",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.2.6"
+        },
+        "compile": {
+          "bin/placeholder/NetCore.SmallUnit.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NetCore.SmallUnit.dll": {}
+        }
+      },
+      "TransactionControl/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "NetCore.SmallUnit": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TransactionControl.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TransactionControl.dll": {}
+        }
+      },
       "UnitOfWorkLibary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
@@ -3668,6 +3696,16 @@
       "path": "../Netcore.Services/Netcore.Services.csproj",
       "msbuildProject": "../Netcore.Services/Netcore.Services.csproj"
     },
+    "NetCore.SmallUnit/1.0.0": {
+      "type": "project",
+      "path": "../NetCore.SmallUnit/NetCore.SmallUnit.csproj",
+      "msbuildProject": "../NetCore.SmallUnit/NetCore.SmallUnit.csproj"
+    },
+    "TransactionControl/1.0.0": {
+      "type": "project",
+      "path": "../TransactionControl/TransactionControl.csproj",
+      "msbuildProject": "../TransactionControl/TransactionControl.csproj"
+    },
     "UnitOfWorkLibary/1.0.0": {
       "type": "project",
       "path": "../UnitOfWorkLibary/UnitOfWorkLibary.csproj",
@@ -3677,7 +3715,8 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.NETCore.App >= 2.2.0",
-      "Netcore.Services >= 1.0.0"
+      "Netcore.Services >= 1.0.0",
+      "TransactionControl >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3705,6 +3744,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\Colipu_ERP\\Utils\\acm\\Colipu.Utils.ACM": {},
+        "http://10.10.101.92:999/NuGet": {},
         "http://vtfs2013:8099/NuGet": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://www.nuget.org/api/v2/": {}
@@ -3714,6 +3755,9 @@
           "projectReferences": {
             "E:\\unitofwork\\UnitOfWork.Resposity\\Netcore.Services\\Netcore.Services.csproj": {
               "projectPath": "E:\\unitofwork\\UnitOfWork.Resposity\\Netcore.Services\\Netcore.Services.csproj"
+            },
+            "E:\\unitofwork\\UnitOfWork.Resposity\\TransactionControl\\TransactionControl.csproj": {
+              "projectPath": "E:\\unitofwork\\UnitOfWork.Resposity\\TransactionControl\\TransactionControl.csproj"
             }
           }
         }

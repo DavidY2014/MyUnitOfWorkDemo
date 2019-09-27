@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Netcore.Services\Netcore.Services.csproj" />
+    <ProjectReference Include="..\TransactionControl\TransactionControl.csproj" />
   </ItemGroup>
 
 </Project>

@@ -3639,6 +3639,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\Colipu_ERP\\Utils\\acm\\Colipu.Utils.ACM": {},
+        "http://10.10.101.92:999/NuGet": {},
         "http://vtfs2013:8099/NuGet": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://www.nuget.org/api/v2/": {}

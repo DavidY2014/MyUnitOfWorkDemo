@@ -14,3 +14,7 @@ E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\bin\Debug\netcoreapp2.2\Netco
 E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\obj\Debug\netcoreapp2.2\Netcore.ConsoleEntry.csproj.CopyComplete
 E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\bin\Debug\netcoreapp2.2\UnitOfWorkLibary.dll
 E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\bin\Debug\netcoreapp2.2\UnitOfWorkLibary.pdb
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\bin\Debug\netcoreapp2.2\NetCore.SmallUnit.dll
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\bin\Debug\netcoreapp2.2\TransactionControl.dll
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\bin\Debug\netcoreapp2.2\TransactionControl.pdb
+E:\unitofwork\UnitOfWork.Resposity\Netcore.Console\bin\Debug\netcoreapp2.2\NetCore.SmallUnit.pdb

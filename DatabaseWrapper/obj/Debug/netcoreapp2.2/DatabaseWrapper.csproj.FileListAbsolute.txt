@@ -1,0 +1,5 @@
+E:\unitofwork\UnitOfWork.Resposity\DatabaseWrapper\bin\Debug\netcoreapp2.2\DatabaseWrapper.deps.json
+E:\unitofwork\UnitOfWork.Resposity\DatabaseWrapper\bin\Debug\netcoreapp2.2\DatabaseWrapper.dll
+E:\unitofwork\UnitOfWork.Resposity\DatabaseWrapper\obj\Debug\netcoreapp2.2\DatabaseWrapper.csproj.CoreCompileInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\DatabaseWrapper\obj\Debug\netcoreapp2.2\DatabaseWrapper.AssemblyInfoInputs.cache
+E:\unitofwork\UnitOfWork.Resposity\DatabaseWrapper\obj\Debug\netcoreapp2.2\DatabaseWrapper.AssemblyInfo.cs
