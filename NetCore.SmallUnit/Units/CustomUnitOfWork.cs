@@ -12,6 +12,9 @@ namespace NetCore.SmallUnit.Units
     /// </summary>
     public class CustomUnitOfWork : TestDBContext, IUnitOfWork
     {
+
+
+
         public EFBaseRepository<Students> _studentsRepos;
 
         public EFBaseRepository<UserLogin> _userLoginRepos;
@@ -30,9 +33,16 @@ namespace NetCore.SmallUnit.Units
 
         public ISmallGenericRepository<UserLogin> UserLoginRepository { get { return _userLoginRepos; } }
 
+        public int ActiveNumber { get; set; } = 0;
+
         public void Commit()
         {
-            throw new NotImplementedException();
+            this.ActiveNumber--;
+            if (this.ActiveNumber == 0)
+            {
+
+                Console.WriteLine("提交事务");
+            }
         }
 
         public void RejectChanges()
@@ -42,7 +52,27 @@ namespace NetCore.SmallUnit.Units
 
         public void Rollback()
         {
-            throw new NotImplementedException();
+            if (this.ActiveNumber > 0 )
+            {
+                try
+                {
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e);
+                    throw;
+                }
+            }
+            Console.WriteLine("回滚事务");
+        }
+
+        public void BeginTransaction()
+        {
+            if (this.ActiveNumber == 0)
+            {
+                Console.WriteLine("开启事务");
+            }
+            this.ActiveNumber++;
         }
         #endregion
 

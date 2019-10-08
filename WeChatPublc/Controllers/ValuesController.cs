@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -22,7 +23,7 @@ namespace WeChatPublc.Controllers
                 {
                     try
                     {
-                        dbContext.Students.Add(new Students() { Id=DateTime.Now.Second, Name = "API test" + DateTime.Now.Second.ToString() });//call back save message information;
+                        dbContext.Students.Add(new Students() { Id = 1, Name = "API test" + DateTime.Now.Second.ToString() });//call back save message information;
                         dbContext.SaveChanges();
                         transaction.Commit();
                     }

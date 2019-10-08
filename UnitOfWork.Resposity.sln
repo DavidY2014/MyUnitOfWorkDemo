@@ -23,11 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCore.SmallUnit", "NetCor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiInterface.CheckAlive", "WebApiInterface.CheckAlive\WebApiInterface.CheckAlive.csproj", "{E02D578D-CB73-42FE-84BE-219E798FC213}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionControl", "TransactionControl\TransactionControl.csproj", "{36D27F4C-618E-458C-8A5A-5EA04C02F138}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransactionControl", "TransactionControl\TransactionControl.csproj", "{36D27F4C-618E-458C-8A5A-5EA04C02F138}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeCommunication", "RealTimeCommunication\RealTimeCommunication.csproj", "{3D6EE3E2-0D58-4DA9-B6C2-E3B74F9D857C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RealTimeCommunication", "RealTimeCommunication\RealTimeCommunication.csproj", "{3D6EE3E2-0D58-4DA9-B6C2-E3B74F9D857C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeChatPublc", "WeChatPublc\WeChatPublc.csproj", "{8C55CDF3-7743-41F6-9C21-1C76CA6BB941}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeChatPublc", "WeChatPublc\WeChatPublc.csproj", "{8C55CDF3-7743-41F6-9C21-1C76CA6BB941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aop.Injection", "Aop.Injection\Aop.Injection.csproj", "{A481A954-2B72-43B9-8E2F-604AB97B7616}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{8C55CDF3-7743-41F6-9C21-1C76CA6BB941}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C55CDF3-7743-41F6-9C21-1C76CA6BB941}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C55CDF3-7743-41F6-9C21-1C76CA6BB941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A481A954-2B72-43B9-8E2F-604AB97B7616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A481A954-2B72-43B9-8E2F-604AB97B7616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A481A954-2B72-43B9-8E2F-604AB97B7616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A481A954-2B72-43B9-8E2F-604AB97B7616}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
